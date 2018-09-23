@@ -1,0 +1,11 @@
+root=true
+
+[*]
+trim_trailing_whitespace = true
+indent_style = space
+
+[*.{cs,ts,tsx,js,jsx,html}]
+indent_size = 4
+
+[*.{css,json,csproj}]
+indent_size = 2
