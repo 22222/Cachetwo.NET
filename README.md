@@ -8,7 +8,7 @@ Installation
 ============
 There are a couple ways to install this package:
 
-* Install the [NuGet package](https://www.nuget.org/packages/Cachetwo.NET/)
+* Install the [NuGet package](https://www.nuget.org/packages/Cachetwo/)
 * Download the assembly from the [latest release](https://github.com/22222/Cachetwo.NET/releases/latest) and reference it manually
 * Copy the source code directly into your project
 
