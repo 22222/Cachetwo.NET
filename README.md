@@ -1,5 +1,7 @@
 Extension methods that expand on [Microsoft.Extension.Caching](https://github.com/aspnet/Caching).
 
+[![Build status](https://ci.appveyor.com/api/projects/status/pwgsxa72l6uktjcn?svg=true)](https://ci.appveyor.com/project/22222/cachetwo-net)
+
 The main focus of this library is on type-specific serialization in a distributed cache using [Json.NET BSON](https://github.com/JamesNK/Newtonsoft.Json.Bson).
 
 Installation

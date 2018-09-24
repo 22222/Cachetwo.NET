@@ -5,7 +5,7 @@ configuration: Release
 platform: Any CPU
 dotnet_csproj:
   patch: true
-  file: Cachetwo\Cachetwo.csproj
+  file: Directory.Build.props
   version: '{version}'
   package_version: '{version}'
   assembly_version: '{version}'
