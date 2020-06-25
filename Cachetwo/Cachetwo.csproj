@@ -6,7 +6,15 @@
     <Description>Extension methods that expand on Microsoft.Extension.Caching.</Description>
     <PackageProjectUrl>https://github.com/22222/Cachetwo.NET</PackageProjectUrl>
     <PackageTags>caching cache distributedcache memorycache</PackageTags>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
+  </ItemGroup>
+
 
   <PropertyGroup Condition="'$(Configuration)'=='Debug'">
     <DebugType>full</DebugType>
